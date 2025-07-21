@@ -60,7 +60,7 @@ class _ChatPageState extends State<ChatPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Chat with Ai', style: TextStyle(color: Colors.white)),
+        title: Text('Chat with AI', style: TextStyle(color: Colors.white)),
         backgroundColor: Colors.black,
       ),
       body: Column(
